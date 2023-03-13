@@ -1,4 +1,4 @@
-let sec = 15
+let sec = 12
 const startCounter = () => {
     setInterval(counter, 1000)
 }
